@@ -1,0 +1,5 @@
+Z-score: 1.3116075339133115
+P-value: 0.18965258971881804
+Control Conversion Rate: 0.1203863045004612
+Treatment Conversion Rate: 0.11880724790277405
+Result: No significant difference
